@@ -1,0 +1,11 @@
+sale_id,player_id,player_name,item_purchased,quantity,price_per_item,total_price,sale_date,city
+1,101,AlexStone,Diamond Sword,1,45.00,45.00,2026-03-01,Manchester
+2,102,CreeperKing,Iron Armor,1,30.00,30.00,2026-03-01,Manchester
+3,103,RedBlockMaster,Health Potion,3,5.00,15.00,2026-03-02,Manchester
+4,104,EnderHunter,Ender Pearl,2,12.50,25.00,2026-03-02,Manchester
+5,105,PixelBuilder,Stone Blocks,50,0.20,10.00,2026-03-03,Manchester
+6,106,NetherKnight,Netherite Sword,1,80.00,80.00,2026-03-03,Manchester
+7,107,BlockCrafter,Torch Pack,5,2.00,10.00,2026-03-04,Manchester
+8,108,StevePro,Diamond Pickaxe,1,60.00,60.00,2026-03-04,Manchester
+9,109,CaveExplorer,Golden Apple,2,15.00,30.00,2026-03-04,Manchester
+10,110,BuilderBob,Wood Planks,100,0.10,10.00,2026-03-05,Manchester
