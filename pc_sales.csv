@@ -1,0 +1,13 @@
+Date,Region,Product,Units_Sold,Unit_Price,Total_Revenue
+2025-01-05,North,Desktop PC,45,850,38250
+2025-01-06,South,Laptop,60,1200,72000
+2025-01-07,East,Gaming PC,30,1500,45000
+2025-01-08,West,Desktop PC,50,800,40000
+2025-01-09,North,Laptop,40,1150,46000
+2025-01-10,South,Gaming PC,25,1600,40000
+2025-01-11,East,Desktop PC,35,820,28700
+2025-01-12,West,Laptop,55,1180,64900
+2025-01-13,North,Gaming PC,20,1550,31000
+2025-01-14,South,Desktop PC,48,830,39840
+2025-01-15,East,Laptop,52,1190,61880
+2025-01-16,West,Gaming PC,28,1580,44240

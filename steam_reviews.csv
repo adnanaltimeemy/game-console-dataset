@@ -1,0 +1,11 @@
+review_id,game_title,review_text,recommended,hours_played,date_posted,helpful_votes
+1,Half-Life 2,"One of the greatest FPS games ever made. The story, physics, and level design are still amazing.",True,45.3,2023-02-14,120
+2,Counter-Strike 2,"Very competitive and intense gameplay. Great with friends but the matchmaking can be frustrating.",True,320.5,2024-01-10,89
+3,Stardew Valley,"Relaxing farming simulator with tons of content. Easy to lose hundreds of hours in this game.",True,150.2,2022-09-21,64
+4,No Man's Sky,"Started rough but the updates have turned it into a fantastic exploration game.",True,78.4,2023-06-11,51
+5,Cyberpunk 2077,"The world and story are incredible but performance issues hurt the experience.",False,32.1,2021-01-05,40
+6,The Witcher 3,"Massive open world RPG with great storytelling and memorable characters.",True,210.7,2022-11-30,95
+7,Among Us,"Fun party game but gets repetitive after a while.",True,25.6,2021-08-15,22
+8,DayZ,"Interesting survival concept but buggy and slow-paced.",False,60.8,2020-12-02,18
+9,Portal 2,"Fantastic puzzles and one of the funniest games ever made.",True,18.9,2023-04-18,73
+10,Elden Ring,"Challenging but extremely rewarding. Huge world and amazing boss fights.",True,140.6,2024-03-01,110
