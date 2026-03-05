@@ -1,0 +1,11 @@
+sale_id,customer_age,customer_gender,area,game_title,platform,price,cost,profit_margin,units_sold,review_text,purchase_date
+1,21,M,Manchester City Centre,FIFA 23,PlayStation,59.99,40,19.99,1,"Great football game with realistic gameplay",2024-01-03
+2,34,F,Salford,Call of Duty MW3,Xbox,69.99,48,21.99,1,"Amazing graphics but campaign is short",2024-01-04
+3,28,M,Didsbury,Minecraft,Nintendo Switch,29.99,15,14.99,2,"Very creative and relaxing game",2024-01-05
+4,42,F,Stockport,The Sims 4,PC,39.99,20,19.99,1,"Fun simulation but needs more expansion packs",2024-01-06
+5,19,M,Oldham,GTA V,PlayStation,49.99,32,17.99,1,"Still one of the best open world games",2024-01-06
+6,25,F,Bury,Animal Crossing,Nintendo Switch,49.99,30,19.99,1,"Cute relaxing game I play daily",2024-01-07
+7,31,M,Manchester City Centre,Elden Ring,PC,59.99,38,21.99,1,"Very difficult but rewarding gameplay",2024-01-07
+8,37,F,Salford,Spider-Man 2,PlayStation,69.99,45,24.99,1,"Story and graphics are fantastic",2024-01-08
+9,23,M,Didsbury,Fortnite Battle Pass,PC,9.99,2,7.99,3,"Fun online battles with friends",2024-01-08
+10,29,F,Stockport,Legend of Zelda TOTK,Nintendo Switch,69.99,45,24.99,1,"Huge world and amazing adventure",2024-01-09
