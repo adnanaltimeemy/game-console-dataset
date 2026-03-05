@@ -1,0 +1,5 @@
+team_id,team_name,sales_units_uk,profit_margin_pct,avg_age_group,gender_mix_pct_male,gender_mix_pct_female,region,occupation_type,fan_comments,time_period
+1,Alpha Crew,1250,18.5,25-34,72.0,28.0,North West,Student,"Love the new roster, great value for money",2025-Q1
+2,Steel Syndicate,980,14.2,35-44,65.0,35.0,London,Professional,"Solid gameplay but needs better online",2025-Q1
+3,Urban Outlaws,760,12.0,18-24,80.0,20.0,Scotland,Blue-collar,"High energy matches; graphics are okay",2025-Q1
+4,Royal Reign,500,10.0,45+,55.0,45.0,South East,Retired,"Too many DLCs, but nostalgic vibe",2025-Q1

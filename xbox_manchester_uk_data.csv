@@ -1,0 +1,5 @@
+user_id,region,city,age_group,gender,signup_date,sales_amount_gbp,cost_amount_gbp,profit_margin_pct,chat_text,sentiment_label
+1001,UK,Manchester,25-34,Male,2025-08-12,120.50,80.00,33.6,"Loved the new game release, great experience!", 
+1002,UK,London,35-44,Female,2025-09-01,75.00,50.00,33.3,"Had issues with connection during match", 
+1003,UK,Manchester,18-24,Other,2025-08-20,200.00,120.00,40.0,"Awesome weekend playing, really enjoyed it", 
+1004,UK,Birmingham,45-54,Male,2025-08-23,50.00,45.00,10.0,"Too many ads, not happy", 
